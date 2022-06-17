@@ -8,6 +8,7 @@ const CorpoContainer = styled.body`
   background-color: #1D1D1D;
   position: relative;
   padding: 0;
+  box-sizing: border-box;
 `
 
 
